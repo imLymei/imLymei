@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  🤗 Olá! Meu nome é Felipe Brito, sou um estudante de programação com foco em <strong>Front-End e Back-End</strong>.<br>
+  🤗 Olá! Meu nome é Felipe Brito. Sou um estudante de programação com foco em <strong>Front-End e Back-End</strong>.<br>
   Atualmente estudo <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Santa Cecília</strong>.
 </p>
 
