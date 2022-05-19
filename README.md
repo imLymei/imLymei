@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://www.ejeq.com.br/wp-content/uploads/mulher_sentada_fundo_rosa-950x950.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   🤗 Olá! Meu nome é Felipe Brito, sou um estudante de programação com foco em <strong>Front-End e Back-End</strong>.<br>
