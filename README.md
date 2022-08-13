@@ -1,4 +1,4 @@
-<img src="https://www.codehero.lk/wp-content/uploads/2021/08/xbnr-1.png.pagespeed.ic_.-WWRx5Ei-e.png" alt="Ilustração programador">
+<img src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" alt="Ilustração programador">
 
 <p align="left"> 
   🤗 Olá! Meu nome é Felipe Brito, sou um estudante de programação com foco em <strong>Front-End e Back-End</strong>.<br>
