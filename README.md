@@ -31,4 +31,7 @@
 
 <a href="https://www.instagram.com/imlymei/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+
+<a href="https://www.freecodecamp.org/portuguese/Lymei" alt="Free Code Camp">
+<img src="https://img.shields.io/badge/-freeCodeCamp-0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
 </p>  
