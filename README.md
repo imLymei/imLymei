@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-<a href="https://www.freecodecamp.org/portuguese/Lymei" alt="Free Code Camp">
+<a href="https://www.freecodecamp.org/portuguese/Lymei" alt="freeCodeCamp">
 <img src="https://img.shields.io/badge/-freeCodeCamp-0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
 
 <a href="https://api.whatsapp.com/send?phone=5513992096141" alt="WhatsApp">
@@ -34,4 +34,8 @@
   
 <a href="mailto:lymeicontato@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-</p>  
+</p> 
+<p align="left">
+<a href="https://www.freecodecamp.org/portuguese/Lymei" alt="freeCodeCamp">
+<img src="https://img.shields.io/freecodecamp/points/lymei?&color=0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
+</p>
