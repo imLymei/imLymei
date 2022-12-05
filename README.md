@@ -12,6 +12,10 @@
 </p>
 
 <p align="left">
+  🛠 Frameworks/Library: <strong>React, Next.js, Tailwind CSS</strong>
+</p>
+
+<p align="left">
   💼 Ferramentas: <strong>VSCode</strong>
 </p>
 
