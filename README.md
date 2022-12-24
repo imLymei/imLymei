@@ -8,12 +8,17 @@
 </div>
 
 <p align="left">
-  👨‍💻 Linguagens: <strong>C#, JS, HTML & CSS</strong>
+  👨‍💻 Linguagens:
 </p>
 
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py&theme=dark)
+
+
 <p align="left">
-  🛠 Frameworks/Library: <strong>React, Next.js, Tailwind CSS</strong>
+  🛠 Frameworks/Library:
 </p>
+
+![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,tailwind,nodejs,figma&theme=dark)
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode</strong>
