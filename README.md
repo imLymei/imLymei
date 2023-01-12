@@ -48,5 +48,3 @@
 <a href="https://www.freecodecamp.org/portuguese/Lymei" alt="freeCodeCamp">
 <img src="https://img.shields.io/freecodecamp/points/lymei?&color=0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
 </p>
-
-[![imLymei](https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
