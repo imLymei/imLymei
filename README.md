@@ -47,4 +47,6 @@
 <p align="left">
 <a href="https://www.freecodecamp.org/portuguese/Lymei" alt="freeCodeCamp">
 <img src="https://img.shields.io/freecodecamp/points/lymei?&color=0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
+![](https://komarev.com/ghpvc/?username=imLymei&color=blueviolet)
 </p>
+![](https://komarev.com/ghpvc/?username=imLymei&color=blueviolet)
