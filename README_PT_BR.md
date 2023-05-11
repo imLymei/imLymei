@@ -2,14 +2,13 @@
 
 <br/>
 
-<div align='center'>
-  
-  <h1> < 👋 Olá! > </h1>
-    
-</div>
+![Hello World Dark Mode](./src/hello_world_dark.png#gh-dark-mode-only)
+![Hello World Light Mode](./src/hello_world_light.png#gh-light-mode-only)
 
-Meu nome é `Felipe Cardoso`, e sou um estudante de programação focado em se tornar um 🧑‍💻 `Desenvolvedor Full Stack`.
-Atualmente estudando `Análise e Desenvolvimento de Sistemas` na `Universidade Santa Cecília`.
+# About Me
+
+👋Olá! Meu nome é `Felipe Cardoso`, e sou um estudante de programação focado em me tornar um 🧑‍💻 `Desenvolvedor Full Stack`.
+Atualmente estudando `Análise e Desenvolvimento de Sistemas` na 🎓`Universidade Santa Cecília`.
 
 ## Qualificações
 
@@ -36,5 +35,7 @@ Atualmente estudando `Análise e Desenvolvimento de Sistemas` na `Universidade S
   
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:lymeicontato@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/felipe-brito-b94721239)
+
+---
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=imLymei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,57ebde,8ef56b&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,8ef56b,aefb2a&theme=graywhite" /></a>
