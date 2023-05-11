@@ -17,8 +17,8 @@ Currently studing `Analysis and Development of Systems` at `Universidade Santa C
  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Cs](https://img.shields.io/badge/-Cs-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
