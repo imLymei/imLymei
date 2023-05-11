@@ -1,4 +1,4 @@
-<div align='center'> <a href='https://github.com/imLymei/imLymei/blob/main/README.md' alt='English readme'>English</a> | <a href='/'>Português</a> </div>
+<div align='center'> <a href='https://github.com/imLymei/imLymei/blob/main/README.md' alt='English readme'>English</a> | <a href='https://github.com/imLymei/imLymei/blob/main/README_PT_BR.md'>Português</a> </div>
 
 <br/>
 
