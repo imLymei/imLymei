@@ -2,8 +2,8 @@
 
 <br/>
 
-![Hello World Dark Mode](./src/hello_world.png#gh-dark-mode-only)
-![Hello World Light Mode](./src/hello_world.png#gh-light-mode-only)
+![Hello World Dark Mode](./src/hello_world_dark.png#gh-dark-mode-only)
+![Hello World Light Mode](./src/hello_world_light.png#gh-light-mode-only)
 
 # About Me
 
