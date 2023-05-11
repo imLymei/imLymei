@@ -5,7 +5,7 @@
 ![Hello World Dark Mode](./src/hello_world_dark.png#gh-dark-mode-only)
 ![Hello World Light Mode](./src/hello_world_light.png#gh-light-mode-only)
 
-# About Me
+# Sobre Mim
 
 👋Olá! Meu nome é `Felipe Cardoso`, e sou um estudante de programação focado em me tornar um 🧑‍💻 `Desenvolvedor Full Stack`.
 Atualmente estudando `Análise e Desenvolvimento de Sistemas` na 🎓`Universidade Santa Cecília`.
