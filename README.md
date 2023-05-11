@@ -1,55 +1,42 @@
-<div>
-  <img align="right" style="float: right" src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" alt="Ilustração programador" width="400px" height="400px">
+<div align='center'> <a href='https://github.com/imLymei/imLymei/blob/main/README.md' alt='English readme'>English</a> | <a href='/'>Português</a> </div>
 
-  <p align="left"> 
-   🤗 Olá! Meu nome é Felipe Cardoso, sou um estudante de programação com foco em me tornar um programador <strong>Full Stack</strong>.<br>
-   Atualmente estudo <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Santa Cecília</strong>.
-  </p>
-</div>
+<br/>
 
-<p align="left">
-  👨‍💻 Linguagens:
-</p>
-
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,py,java,cs&theme=dark)
-
-
-<p align="left">
-  🛠 Outros:
-</p>
-
-![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,tailwind,nodejs,figma&theme=dark)
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode</strong>
-</p>
-
-<div>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=imLymei&show_icons=true&theme=dracula&include_all_commits=true">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&layout-compact&langs_count=16&theme=dracula">
-</div>
-
-<p align="left">
-  💌 Qualquer coisa entre em contato comigo por alguma dessas redes sociais: ⤵️
-</p>
-
-<p align="left">
-<a href="https://www.freecodecamp.org/portuguese/Lymei" alt="freeCodeCamp">
-<img src="https://img.shields.io/badge/-freeCodeCamp-0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
-
-<a href="https://api.whatsapp.com/send?phone=5513992096141" alt="WhatsApp">
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/imlymei/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+<div align='center'>
   
-<a href="https://www.linkedin.com/in/felipe-brito-b94721239/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a> 
+  <font size='10'> < 👋 Hello! > </font>
+    
+</div>
   
-<a href="mailto:lymeicontato@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-</p> 
-<p align="left">
-<a href="https://www.freecodecamp.org/portuguese/Lymei" alt="freeCodeCamp">
-<img src="https://img.shields.io/freecodecamp/points/lymei?&color=0A0A22?style=flat-square&labelColor=0A0A22&logo=freeCodeCamp&logoColor=white"></a>
-</p>
+<br/>
+
+My name is `Felipe Cardoso` and i am a programming student focused on becoming a 🧑‍💻`Full Stack Developer`.
+Currently studing `Analysis and Development of Systems` at `Universidade Santa Cecília`.
+
+## Qualifications
+
+### Languages
+ 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Cs](https://img.shields.io/badge/-Cs-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+## Lest's Create Something!
+  
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:lymeicontato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/felipe-brito-b94721239)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=imLymei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,57ebde,8ef56b&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,8ef56b,aefb2a&theme=graywhite" /></a>
