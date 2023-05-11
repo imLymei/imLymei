@@ -15,7 +15,7 @@
 
 
 <p align="left">
-  🛠 Frameworks/Library:
+  🛠 Outros:
 </p>
 
 ![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,tailwind,nodejs,figma&theme=dark)
