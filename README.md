@@ -4,11 +4,9 @@
 
 <div align='center'>
   
-  <font size='10'> < 👋 Hello! > </font>
+  <h1> < 👋 Hello! > </h1>
     
 </div>
-  
-<br/>
 
 My name is `Felipe Cardoso` and i am a programming student focused on becoming a 🧑‍💻`Full Stack Developer`.
 Currently studing `Analysis and Development of Systems` at `Universidade Santa Cecília`.
