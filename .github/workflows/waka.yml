@@ -1,9 +1,0 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} - waka readme 🚀
-on: [push]
-jobs:
-  Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Waka - Readme
-        uses: athul/waka-readme@v0.2.0
