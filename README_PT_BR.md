@@ -39,5 +39,27 @@ Atualmente estudando `Análise e Desenvolvimento de Sistemas` na 🎓`Universida
 ## Github Stats
 
 <div align="center">
-<a href="https://www.lymei.art"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=imLymei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,57ebde,8ef56b&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,8ef56b,aefb2a&theme=graywhite" /></a>
-</div>
+<a href="https://www.lymei.art/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=imLymei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,57ebde,8ef56b&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,8ef56b,aefb2a&theme=graywhite" /></a>
+
+<!--START_SECTION:waka-->
+
+```text
+From: 11 May 2023 - To: 17 May 2023
+
+Total Time: 15 hrs 46 mins
+
+JavaScript       11 hrs 49 mins  >>>>>>>>>>>>>>>>>>>------   75.02 %
+Python           2 hrs 45 mins   >>>>---------------------   17.46 %
+XML              21 mins         >------------------------   02.27 %
+Bash             20 mins         >------------------------   02.12 %
+CSS              17 mins         -------------------------   01.84 %
+Markdown         5 mins          -------------------------   00.60 %
+GitIgnore file   2 mins          -------------------------   00.30 %
+Text             1 min           -------------------------   00.18 %
+JSON             1 min           -------------------------   00.12 %
+Git Config       0 secs          -------------------------   00.05 %
+```
+
+<!--END_SECTION:waka-->
+ 
+ </div>
