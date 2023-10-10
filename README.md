@@ -44,7 +44,7 @@ Currently studing `Analysis and Development of Systems` at 🎓`Universidade San
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 08 October 2023
+From: 11 May 2023 - To: 09 October 2023
 
 Total Time: 380 hrs 31 mins
 
