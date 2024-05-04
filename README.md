@@ -44,20 +44,20 @@ Currently studing `Analysis and Development of Systems` at 🎓`Universidade San
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 02 May 2024
+From: 11 May 2023 - To: 03 May 2024
 
-Total Time: 671 hrs 6 mins
+Total Time: 672 hrs 21 mins
 
-TypeScript       436 hrs 8 mins  >>>>>>>>>>>>>>>>---------   64.99 %
-JavaScript       97 hrs 30 mins  >>>>---------------------   14.53 %
-Python           49 hrs 4 mins   >>-----------------------   07.31 %
-HTML             22 hrs 47 mins  >------------------------   03.40 %
-JSON             17 hrs 29 mins  >------------------------   02.61 %
-Rust             10 hrs 22 mins  -------------------------   01.55 %
+TypeScript       436 hrs 57 mins >>>>>>>>>>>>>>>>---------   64.99 %
+JavaScript       97 hrs 31 mins  >>>>---------------------   14.50 %
+Python           49 hrs 4 mins   >>-----------------------   07.30 %
+HTML             22 hrs 47 mins  >------------------------   03.39 %
+JSON             17 hrs 29 mins  >------------------------   02.60 %
+Rust             10 hrs 22 mins  -------------------------   01.54 %
 CSS              7 hrs 58 mins   -------------------------   01.19 %
-Markdown         7 hrs 38 mins   -------------------------   01.14 %
+Markdown         7 hrs 46 mins   -------------------------   01.16 %
 Other            5 hrs 5 mins    -------------------------   00.76 %
-Bash             3 hrs 15 mins   -------------------------   00.49 %
+Bash             3 hrs 15 mins   -------------------------   00.48 %
 ```
 
 <!--END_SECTION:waka-->
