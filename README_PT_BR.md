@@ -31,16 +31,10 @@ Atualmente estudando `Análise e Desenvolvimento de Sistemas` na 🎓`Universida
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-## Vamos Criar Alguma Coisa!
-  
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:lymeicontato@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/felipe-brito-b94721239)
-
-## Github Stats
+## Estatísticas de Linguagens
 
 <div align="center">
-<a href="https://www.lymei.art/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=imLymei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,57ebde,8ef56b&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imLymei&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,8ef56b,aefb2a&theme=graywhite" /></a>
-
+ 
 <!--START_SECTION:waka-->
 
 ```txt
@@ -62,4 +56,9 @@ Markdown         15 mins         -------------------------   00.37 %
 
 <!--END_SECTION:waka-->
  
- </div>
+</div>
+
+## Vamos Criar Algo Juntos!
+  
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:lymeicontato@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/felipe-brito-b94721239)
