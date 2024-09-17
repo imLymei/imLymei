@@ -1,4 +1,7 @@
-<div align='center'> <a href='https://github.com/imLymei/imLymei/blob/main/README.md' alt='English readme'>English</a> | <a href='https://github.com/imLymei/imLymei/blob/main/README_PT_BR.md'>Português</a> </div>
+<div align='center'>
+ <a href='https://github.com/imLymei/imLymei/blob/main/README.md' alt='English readme'><kbd><img title="Português Brasil" alt="Português Brasil" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></kbd></a>
+ <a href='https://github.com/imLymei/imLymei/blob/main/README_PT_BR.md'><kbd><img title="Português Brasil" alt="Português Brasil" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd></a>
+</div>
 
 <br/>
 
