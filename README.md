@@ -11,7 +11,7 @@
 # About Me
 
 👋Hello! My name is `Felipe Cardoso` and i am a programming student focused on becoming a 🧑‍💻`Full Stack Developer`.
-Graduated in `Analysis and Development of Systems` at 🎓`Universidade Santa Cecília`.
+Graduated in `Analysis and Development of Systems` at 🎓`Universidade Santa Cecília`. Currently working at 🏫`Colégio Jean Piaget`, leading the school's development team.
 
 ## Qualifications
 
