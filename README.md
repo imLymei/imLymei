@@ -42,19 +42,19 @@ Graduated in `Analysis and Development of Systems` at 🎓`Universidade Santa Ce
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 24 February 2025
+From: 11 May 2023 - To: 25 February 2025
 
-Total Time: 1,380 hrs 10 mins
+Total Time: 1,386 hrs 33 mins
 
-TypeScript       948 hrs 40 mins >>>>>>>>>>>>>>>>>--------   68.74 %
-JavaScript       100 hrs 53 mins >>-----------------------   07.31 %
-Python           89 hrs 45 mins  >>-----------------------   06.50 %
-HTML             48 hrs 3 mins   >------------------------   03.48 %
-Rust             43 hrs 40 mins  >------------------------   03.16 %
-JSON             35 hrs 22 mins  >------------------------   02.56 %
+TypeScript       954 hrs 51 mins >>>>>>>>>>>>>>>>>--------   68.86 %
+JavaScript       100 hrs 53 mins >>-----------------------   07.28 %
+Python           89 hrs 45 mins  >>-----------------------   06.47 %
+HTML             48 hrs 3 mins   >------------------------   03.47 %
+Rust             43 hrs 40 mins  >------------------------   03.15 %
+JSON             35 hrs 28 mins  >------------------------   02.56 %
 Markdown         21 hrs 42 mins  -------------------------   01.57 %
-C#               18 hrs 20 mins  -------------------------   01.33 %
-YAML             11 hrs 33 mins  -------------------------   00.84 %
+C#               18 hrs 20 mins  -------------------------   01.32 %
+YAML             11 hrs 33 mins  -------------------------   00.83 %
 Other            11 hrs 30 mins  -------------------------   00.83 %
 ```
 
