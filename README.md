@@ -42,12 +42,12 @@ Graduated in `Analysis and Development of Systems` at 🎓`Universidade Santa Ce
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 24 August 2025
+From: 11 May 2023 - To: 25 August 2025
 
-Total Time: 1,728 hrs 56 mins
+Total Time: 1,729 hrs 37 mins
 
-TypeScript       1,209 hrs 6 mins>>>>>>>>>>>>>>>>>--------   69.93 %
-Python           115 hrs         >>-----------------------   06.65 %
+TypeScript       1,209 hrs 6 mins>>>>>>>>>>>>>>>>>--------   69.91 %
+Python           115 hrs 12 mins >>-----------------------   06.66 %
 JavaScript       101 hrs 38 mins >------------------------   05.88 %
 HTML             56 hrs 33 mins  >------------------------   03.27 %
 Rust             48 hrs 28 mins  >------------------------   02.80 %
