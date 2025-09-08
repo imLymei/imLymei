@@ -42,7 +42,7 @@ Graduated in `Analysis and Development of Systems` at 🎓`Universidade Santa Ce
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 06 September 2025
+From: 11 May 2023 - To: 07 September 2025
 
 Total Time: 1,738 hrs 23 mins
 
