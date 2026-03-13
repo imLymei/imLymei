@@ -36,7 +36,7 @@ export default function HeroSection() {
           </p>
         </div>
 
-        <h1 className="mb-6 font-mono text-6xl font-bold md:text-9xl">
+        <h1 className="mb-6 text-6xl font-bold md:text-9xl">
           Engenheiro de Software
         </h1>
 
@@ -46,7 +46,7 @@ export default function HeroSection() {
               .writeText(APP.email)
               .then(() => setHasCopiedEmail(true));
           }}
-          className="relative flex max-w-[90dvw] items-center gap-2 overflow-hidden rounded-full border border-neutral-950 bg-neutral-950/50 px-4 py-1 font-mono text-violet-500 transition-transform hover:bg-neutral-950"
+          className="relative flex max-w-[90dvw] items-center gap-2 overflow-hidden rounded-full border border-neutral-950 bg-neutral-950/50 px-4 py-1 text-violet-500 transition-transform hover:bg-neutral-950"
         >
           <div
             className={cx(
