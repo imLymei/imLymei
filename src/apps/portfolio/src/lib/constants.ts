@@ -1,4 +1,4 @@
-import { FaCopy, FaLink } from "react-icons/fa6";
+import { FaCheck, FaCopy, FaLink } from "react-icons/fa6";
 
 const default_icon_size = 15;
 export const ICON_SIZES = {
@@ -7,9 +7,12 @@ export const ICON_SIZES = {
   MEDIUM: default_icon_size * 1.25,
   LARGE: default_icon_size * 1.5,
   EXTRA_LARGE: default_icon_size * 2,
+  EXTRA_EXTRA_LARGE: default_icon_size * 4,
+  ULTRA_LARGE: default_icon_size * 8,
 };
 
 export const ICONS = {
   LINK: FaLink,
   COPY: FaCopy,
+  CHECK: FaCheck,
 };
