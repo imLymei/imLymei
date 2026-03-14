@@ -45,7 +45,7 @@ export default function ProjectsSection() {
             {PROJECTS_TAGS.map((tag) => {
               const tagColor = getUniqueHashColor(tag);
 
-              const unselectedTagColor = tagColor + "40";
+              const unselectedTagColor = tagColor + "60";
               const backgroundTagColor = tagColor + "10";
 
               const isSelected = selectedTags.has(tag);
