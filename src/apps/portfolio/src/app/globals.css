@@ -7,3 +7,18 @@ html {
   overflow-x: hidden;
   overflow-y: auto;
 }
+
+@theme {
+  --animate-wink: wink 10s ease-in-out infinite;
+
+  @keyframes wink {
+    0%,
+    74%,
+    78% {
+      transform: scaleY(1);
+    }
+    75% {
+      transform: scaleY(0);
+    }
+  }
+}

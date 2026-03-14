@@ -55,7 +55,11 @@ export default function HeroSection() {
         href="#projects"
         className="absolute bottom-6 flex items-center gap-2 hover:text-violet-500"
       >
-        Saiba mais <ICONS.EYE size={ICON_SIZES.SMALL} />
+        Saiba mais{" "}
+        <ICONS.EYE
+          size={ICON_SIZES.SMALL}
+          className="animate-wink origin-center text-violet-500"
+        />
       </a>
     </div>
   );
