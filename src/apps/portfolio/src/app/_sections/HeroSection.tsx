@@ -26,7 +26,7 @@ export default function HeroSection() {
       <div className="z-10 flex flex-col items-center gap-6">
         <div className="pointer-events-none opacity-0">space</div>
 
-        <h1 className="mb-6 text-5xl font-bold md:text-9xl">
+        <h1 className="mb-6 text-5xl font-bold md:text-7xl lg:text-9xl">
           Engenheiro de Software
         </h1>
 
