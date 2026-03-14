@@ -4,6 +4,7 @@ import Page from "@/components/Page";
 import Button from "@/components/ui/Button";
 import { ICON_SIZES, ICONS, PROJECTS, PROJECTS_TAGS } from "@/lib/constants";
 import { cx, getUniqueHashColor } from "@/lib/utils";
+import Image from "next/image";
 import { useMemo, useState } from "react";
 
 export default function ProjectsSection() {
@@ -89,22 +90,6 @@ export default function ProjectsSection() {
                 },
               )}
             >
-              <div
-                className={cx(
-                  "absolute top-4 right-4 rounded-full border border-neutral-500 bg-neutral-500/10 p-2 text-neutral-500",
-                  {
-                    "border-violet-500 bg-violet-500/10 text-violet-500":
-                      project.isOpenSource,
-                  },
-                )}
-                title={project.isOpenSource ? "Open Source" : "Closed Source"}
-              >
-                {project.isOpenSource ? (
-                  <ICONS.OPEN_SOURCE size={ICON_SIZES.SMALL} />
-                ) : (
-                  <ICONS.CLOSE_SOURCE size={ICON_SIZES.SMALL} />
-                )}
-              </div>
               <p className="flex items-center justify-center gap-2 text-center text-2xl font-bold">
                 {project.name}
                 {project.isFavorite && (
@@ -115,27 +100,71 @@ export default function ProjectsSection() {
                   />
                 )}
               </p>
-              <p>{project.description}</p>
-              <div className="flex flex-wrap gap-2">
-                {project.tags.map((projectTag) => {
-                  const tagColor = getUniqueHashColor(projectTag);
-                  const backgroundTagColor = tagColor + "10";
+              {project.image && (
+                <div className="relative aspect-video w-full overflow-hidden rounded-2xl">
+                  <Image
+                    src={project.image}
+                    alt={`Imagem do Projeto ${project.name}`}
+                    fill
+                    className="pointer-events-none object-cover"
+                  />
+                </div>
+              )}
+              <div className="flex flex-col gap-2">{project.description}</div>
 
-                  return (
-                    <p
-                      key={`project-${project.name}-tag-${projectTag}`}
-                      className="rounded-full border px-4 text-center text-nowrap"
-                      style={{
-                        backgroundColor: backgroundTagColor,
-                        borderColor: tagColor,
-                        color: tagColor,
-                      }}
-                    >
-                      {projectTag}
-                    </p>
-                  );
-                })}
+              <div className="flex-1">
+                <div className="flex flex-wrap gap-2">
+                  {project.tags
+                    .sort((a, b) => a.localeCompare(b))
+                    .map((projectTag) => {
+                      const tagColor = getUniqueHashColor(projectTag);
+                      const backgroundTagColor = tagColor + "10";
+
+                      return (
+                        <p
+                          key={`project-${project.name}-tag-${projectTag}`}
+                          className="rounded-full border px-4 text-center text-nowrap"
+                          style={{
+                            backgroundColor: backgroundTagColor,
+                            borderColor: tagColor,
+                            color: tagColor,
+                          }}
+                        >
+                          {projectTag}
+                        </p>
+                      );
+                    })}
+                </div>
               </div>
+
+              <a
+                href={project.href}
+                target="_blank"
+                className={cx(
+                  "flex items-center justify-center gap-2 rounded-full border border-neutral-500 bg-neutral-500/10 p-2 text-neutral-500 select-none",
+                  {
+                    "border-violet-500 bg-violet-500/10 text-violet-500":
+                      project.isOpenSource,
+                    "border-violet-800 bg-violet-500/5 text-violet-800":
+                      project.isOpenSource && !project.href,
+                    "cursor-not-allowed":
+                      !project.isOpenSource || !project.href,
+                  },
+                )}
+                title={project.isOpenSource ? "Open Source" : "Closed Source"}
+              >
+                {project.isOpenSource ? (
+                  <>
+                    <p>Open Source</p>
+                    <ICONS.OPEN_SOURCE size={ICON_SIZES.SMALL} />
+                  </>
+                ) : (
+                  <>
+                    <p>Closed Source</p>
+                    <ICONS.CLOSE_SOURCE size={ICON_SIZES.SMALL} />
+                  </>
+                )}
+              </a>
             </div>
           ))}
         </div>
