@@ -81,7 +81,13 @@ export default function ProjectsSection() {
           {filteredProjects.map((project) => (
             <div
               key={`project-${project.name}`}
-              className="relative flex flex-col gap-6 rounded-2xl border p-6"
+              className={cx(
+                "from relative flex flex-col gap-6 rounded-2xl border bg-linear-to-t from-neutral-500/20 p-6",
+                {
+                  "from-violet-500/20": project.isOpenSource,
+                  "border-violet-500": project.isFavorite,
+                },
+              )}
             >
               <div
                 className={cx(
