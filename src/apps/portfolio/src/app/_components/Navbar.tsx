@@ -3,7 +3,7 @@ import { ICON_SIZES } from "@/lib/constants";
 
 export default function Navbar() {
   return (
-    <div className="pointer-events-none absolute inset-0 top-96 z-20 flex flex-col items-center lg:top-80 2xl:top-80">
+    <div className="pointer-events-none absolute inset-0 top-[30svh] z-20 flex flex-col items-center lg:top-80 2xl:top-80">
       <div className="sticky top-4 w-fit rounded-full border border-neutral-50 bg-neutral-950 px-4 py-1">
         <a
           href="#home"
