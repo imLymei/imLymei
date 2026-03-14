@@ -24,7 +24,7 @@ export default function RootLayout({
       <body
         className={cx(
           spaceMono.className,
-          "bg-neutral-950 text-neutral-50 antialiased selection:bg-violet-500/20",
+          "bg-neutral-950 text-neutral-50 antialiased not-motion-reduce:scroll-smooth selection:bg-violet-500/20",
         )}
       >
         {children}

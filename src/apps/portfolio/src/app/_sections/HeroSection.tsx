@@ -1,7 +1,6 @@
 "use client";
 
 import Button from "@/components/ui/Button";
-import Logo from "@/components/ui/Logo";
 import useStatusHook from "@/hooks/useStatusHook";
 import { APP } from "@/lib/config";
 import { ICON_SIZES, ICONS } from "@/lib/constants";
@@ -12,7 +11,7 @@ export default function HeroSection() {
   const [hasCopiedEmail, setHasCopiedEmail] = useStatusHook(false);
 
   return (
-    <div className="relative flex h-dvh flex-col items-center justify-center text-center">
+    <div className="relative flex h-dvh items-center justify-center text-center">
       <div className="pointer-events-none absolute inset-0 bg-linear-to-b from-transparent to-neutral-950">
         <Image
           src="/images/HappyBeach.jpg"
@@ -24,19 +23,9 @@ export default function HeroSection() {
         />
       </div>
       <div className="z-10 flex flex-col items-center gap-6">
-        <div className="rounded-full bg-neutral-950 px-4 py-1">
-          <p className="flex items-center justify-center gap-2">
-            Felipe{" "}
-            <Logo
-              color="off-white"
-              size={ICON_SIZES.MEDIUM}
-              className="stroke-neutral-50 select-none"
-            />
-            Cardoso
-          </p>
-        </div>
+        <div className="pointer-events-none opacity-0">space</div>
 
-        <h1 className="mb-6 text-6xl font-bold md:text-9xl">
+        <h1 className="mb-6 text-5xl font-bold md:text-9xl">
           Engenheiro de Software
         </h1>
 
@@ -61,6 +50,12 @@ export default function HeroSection() {
           <p>{APP.email_anti_bot}</p>
         </Button>
       </div>
+      <a
+        href="#projects"
+        className="absolute bottom-6 flex items-center gap-2 hover:text-violet-500"
+      >
+        Saiba mais <ICONS.EYE size={ICON_SIZES.SMALL} />
+      </a>
     </div>
   );
 }
