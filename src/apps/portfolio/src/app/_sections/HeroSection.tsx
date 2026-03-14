@@ -15,6 +15,7 @@ export default function HeroSection() {
       <div className="pointer-events-none absolute inset-0 bg-linear-to-b from-transparent to-neutral-950">
         <Image
           src="/images/HappyBeach.jpg"
+          // src="/images/BeachSky.jpg"
           alt="Eu na Praia"
           className="-z-10 object-cover object-bottom"
           fill

@@ -4,7 +4,7 @@ import ProjectsSection from "./_sections/ProjectsSection";
 
 export default function Home() {
   return (
-    <div id="home" className="relative">
+    <div id="home" className="relative flex flex-col gap-32">
       <Navbar />
       <HeroSection />
       <ProjectsSection />
