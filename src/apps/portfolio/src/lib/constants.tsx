@@ -205,6 +205,26 @@ export const PROJECTS: Project[] = [
     image: "/images/RDO.png",
     href: "https://github.com/imLymei/desafios-rdo",
   },
+  {
+    name: "Contador de Cartas Kariba",
+    description: (
+      <>
+        <p>
+          Um dos meus primeiros projetos. Este site tem como objetivo ajudar os
+          jogadores a estimar as probabilidades das cartas do oponente no jogo
+          Kariba. A aplicação funciona como um contador de cartas, permitindo
+          registrar quais cartas já foram jogadas e calcular dinamicamente as
+          chances de cada animal aparecer novamente no baralho.
+        </p>
+        <p>Você ainda perderia para minha irmã mesmo se usar isso...</p>
+        <p>O projeto foi desenvolvido com Next.js, React e Tailwind CSS.</p>
+      </>
+    ),
+    isOpenSource: true,
+    tags: ["React.js", "Next.js", "Typescript", "Tailwind CSS"],
+    href: "https://github.com/imLymei/kariba-card-counter",
+    image: "/images/KaribaCardCounter.png",
+  },
 ];
 export const PROJECTS_TAGS = Array.from(
   new Set(
