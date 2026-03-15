@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   FaArrowRotateLeft,
   FaCheck,
@@ -43,20 +44,25 @@ export type Project = {
 };
 export const PROJECTS: Project[] = [
   {
-    name: "Intranet Jean Piaget",
+    name: "Intranet Escolar",
     description: (
       <>
         <p>
-          Plataforma de intranet educacional do Colégio Jean Piaget, utilizada
-          por +1000 usuários em múltiplas unidades. Desenvolvida com TypeScript,
-          React.js e Next.js, integra APIs internas e serviços externos e
-          permite a geração de relatórios e gestão de dados acadêmicos.
+          Plataforma de intranet educacional que permite a professores, alunos e
+          familiares acessar ocorrências, provas e resultados, além de gerar
+          relatórios e acompanhar dados acadêmicos. Atualmente utilizada por
+          mais de 1000 usuários simultâneos em múltiplas unidades.
+        </p>
+        <p>
+          Desenvolvida com TypeScript, React.js e Next.js, integra APIs internas
+          e serviços externos, oferecendo ferramentas para gestão de informações
+          acadêmicas e geração de relatórios.
         </p>
         <p>
           Atuei como Tech Lead da equipe responsável pelo desenvolvimento,
-          liderando decisões técnicas, estrutura de CI/CD, testes automatizados,
-          containerização com Docker e a criação de um SDK interno para
-          padronização de serviços, com foco em performance e escalabilidade.
+          liderando decisões técnicas, estruturação de CI/CD, implementação de
+          testes automatizados, containerização com Docker e a criação de um SDK
+          interno para padronização de serviços.
         </p>
       </>
     ),
@@ -82,17 +88,18 @@ export const PROJECTS: Project[] = [
     description: (
       <>
         <p>
-          Ferramenta de linha de comando (CLI) open-source desenvolvida para
-          automatizar e simplificar comandos longos ou repetitivos no fluxo de
-          trabalho de desenvolvedores.
+          CLI open-source desenvolvida para automatizar e simplificar comandos
+          longos ou repetitivos no fluxo de trabalho de desenvolvedores, ou
+          seja, meus comandos no Docker xD.
         </p>
         <p>
           Construída com TypeScript e Node.js, permite a criação e execução de
           comandos personalizados com suporte a argumentos obrigatórios,
-          opcionais, condicionais e spread arguments para alta flexibilidade. A
-          ferramenta também inclui gerenciamento de configurações via CLI e
-          sincronização em nuvem utilizando GitHub Gists, permitindo
-          compartilhar e sincronizar comandos entre diferentes ambientes.
+          opcionais, condicionais e{" "}
+          <span className="italic">spread arguments</span>. A ferramenta também
+          inclui gerenciamento de configurações via CLI e sincronização em nuvem
+          utilizando GitHub Gists, permitindo compartilhar e sincronizar
+          comandos entre diferentes ambientes.
         </p>
       </>
     ),
@@ -108,6 +115,67 @@ export const PROJECTS: Project[] = [
     isFavorite: true,
     image: "/images/Foji.png",
     href: "https://github.com/imLymei/foji",
+  },
+  {
+    name: "Portfolio com Blog",
+    description: (
+      <>
+        <p>
+          Portfólio e blog pessoal desenvolvido para apresentar meus projetos,
+          documentar estudos de caso e compartilhar aprendizados da minha
+          jornada como desenvolvedor de software.
+        </p>
+        <p>
+          Infelizmente nunca consegui fazer posts completos dentro do site, mas
+          quem sabe esse{" "}
+          <Link
+            href="/blog"
+            className="underline decoration-violet-500 hover:text-violet-500"
+          >
+            aqui não seja diferente
+          </Link>{" "}
+          ;) ...
+        </p>
+        <p>
+          Desenvolvido com Next.js, React e MDX para permitir a criação de
+          conteúdo técnico diretamente em Markdown, integrando código e
+          documentação em uma mesma estrutura. O projeto utiliza Tailwind CSS
+          para estilização e foi pensado para facilitar a escrita de artigos
+          técnicos.
+        </p>
+      </>
+    ),
+    isOpenSource: true,
+    tags: ["Next.js", "React.js", "MDX", "Typescript", "Tailwind CSS"],
+    href: "https://github.com/imLymei/portfolio-blog",
+    image: "/images/PortfolioBlog.png",
+  },
+  {
+    name: "TypeSpeed",
+    description: (
+      <>
+        <p>
+          Aplicação web e desktop desenvolvida para treinar velocidade e
+          precisão de digitação utilizando a{" "}
+          <span className="italic">Home Row</span>. Foi assim que consegui me
+          acostumar com o Vim B).
+        </p>
+        <p>
+          O usuário digita sequências de palavras enquanto o sistema acompanha
+          métricas em tempo real, como precisão e número de acertos, permitindo
+          visualizar a evolução da performance durante a prática.
+        </p>
+        <p>
+          O projeto foi desenvolvido com Next.js, React e Tailwind CSS para a
+          interface, utilizando Tauri para a criação de um aplicativo desktop
+          leve e multiplataforma.
+        </p>
+      </>
+    ),
+    isOpenSource: true,
+    tags: ["Next.js", "React.js", "Tailwind CSS", "Tauri", "Typescript"],
+    href: "https://github.com/imLymei/type-speed",
+    image: "/images/FastType.png",
   },
   {
     name: "Desafios RDO",
@@ -139,6 +207,26 @@ export const PROJECTS: Project[] = [
     ],
     image: "/images/RDO.png",
     href: "https://github.com/imLymei/desafios-rdo",
+  },
+  {
+    name: "Contador de Cartas Kariba",
+    description: (
+      <>
+        <p>
+          Um dos meus primeiros projetos. Este site tem como objetivo ajudar os
+          jogadores a estimar as probabilidades das cartas do oponente no jogo
+          Kariba. A aplicação funciona como um contador de cartas, permitindo
+          registrar quais cartas já foram jogadas e calcular dinamicamente as
+          chances de cada animal aparecer novamente no baralho.
+        </p>
+        <p>Você ainda perderia para minha irmã mesmo se usar isso...</p>
+        <p>O projeto foi desenvolvido com Next.js, React e Tailwind CSS.</p>
+      </>
+    ),
+    isOpenSource: true,
+    tags: ["React.js", "Next.js", "Typescript", "Tailwind CSS"],
+    href: "https://github.com/imLymei/kariba-card-counter",
+    image: "/images/KaribaCardCounter.png",
   },
 ];
 export const PROJECTS_TAGS = Array.from(
