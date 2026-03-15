@@ -6,6 +6,7 @@ import ProjectsSection from "./_sections/ProjectsSection";
 export default function Home() {
   return (
     <div id="home" className="relative flex flex-col gap-32">
+      <div className="bg-stars animate-bg-move absolute inset-0 -z-20" />
       <Navbar />
       <HeroSection />
       <ProjectsSection />

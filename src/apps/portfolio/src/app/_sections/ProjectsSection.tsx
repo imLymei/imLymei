@@ -21,7 +21,7 @@ export default function ProjectsSection() {
   );
 
   return (
-    <Page id="projects" className="flex min-h-dvh flex-col gap-12 p-6">
+    <Page id="projects" className="relative flex min-h-dvh flex-col gap-12 p-6">
       <h2 className="text-center text-4xl font-bold md:text-left md:text-6xl">
         Projetos
       </h2>
@@ -83,13 +83,14 @@ export default function ProjectsSection() {
             <div
               key={`project-${project.name}`}
               className={cx(
-                "from relative flex flex-col gap-6 rounded-2xl border bg-linear-to-t from-neutral-500/20 p-6",
+                "relative flex flex-col gap-6 overflow-hidden rounded-2xl border bg-linear-to-t from-neutral-500/20 p-6",
                 {
                   "from-violet-500/20": project.isOpenSource,
                   "border-violet-500": project.isFavorite,
                 },
               )}
             >
+              <div className="absolute inset-0 -z-10 bg-neutral-950" />
               <p className="flex items-center justify-center gap-2 text-center text-2xl font-bold">
                 {project.name}
                 {project.isFavorite && (
