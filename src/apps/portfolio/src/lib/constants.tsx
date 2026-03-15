@@ -100,7 +100,6 @@ export const PROJECTS: Project[] = [
     tags: [
       "CLI",
       "Typescript",
-      "Tailwind CSS",
       "Automação",
       "Localfirst",
       "Cloud Sync",
@@ -118,7 +117,7 @@ export const PROJECTS: Project[] = [
           Conjunto de desafios de desenvolvimento web implementados para
           praticar lógica de programação e conceitos fundamentais de front-end.
           O projeto inclui um conversor de números romanos e arábicos, uma
-          implementação interativa do Conway's Game of Life e um sistema de
+          implementação interativa do Conway&apos;s Game of Life e um sistema de
           restaurante capaz de gerar faturas e dividir automaticamente os custos
           entre pessoas da mesma mesa.
         </p>

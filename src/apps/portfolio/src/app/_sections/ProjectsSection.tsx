@@ -101,7 +101,7 @@ export default function ProjectsSection() {
                 )}
               </p>
               {project.image && (
-                <div className="relative aspect-video w-full overflow-hidden rounded-2xl">
+                <div className="relative aspect-video w-full overflow-hidden rounded-lg">
                   <Image
                     src={project.image}
                     alt={`Imagem do Projeto ${project.name}`}
