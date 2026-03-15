@@ -1,4 +1,5 @@
 import Navbar from "./_components/Navbar";
+import Footer from "./_sections/Footer";
 import HeroSection from "./_sections/HeroSection";
 import ProjectsSection from "./_sections/ProjectsSection";
 
@@ -8,6 +9,7 @@ export default function Home() {
       <Navbar />
       <HeroSection />
       <ProjectsSection />
+      <Footer />
     </div>
   );
 }
