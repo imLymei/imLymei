@@ -1,3 +1,4 @@
+import Link from "next/link";
 import {
   FaArrowRotateLeft,
   FaCheck,
@@ -111,6 +112,67 @@ export const PROJECTS: Project[] = [
     isFavorite: true,
     image: "/images/Foji.png",
     href: "https://github.com/imLymei/foji",
+  },
+  {
+    name: "Portfolio com Blog",
+    description: (
+      <>
+        <p>
+          Portfólio e blog pessoal desenvolvido para apresentar meus projetos,
+          documentar estudos de caso e compartilhar aprendizados da minha
+          jornada como desenvolvedor de software.
+        </p>
+        <p>
+          Infelizmente nunca consegui fazer posts completos dentro do site, mas
+          quem sabe esse{" "}
+          <Link
+            href="/blog"
+            className="underline decoration-violet-500 hover:text-violet-500"
+          >
+            aqui não seja diferente
+          </Link>{" "}
+          ;) ...
+        </p>
+        <p>
+          Desenvolvido com Next.js, React e MDX para permitir a criação de
+          conteúdo técnico diretamente em Markdown, integrando código e
+          documentação em uma mesma estrutura. O projeto utiliza Tailwind CSS
+          para estilização e foi pensado para facilitar a escrita de artigos
+          técnicos.
+        </p>
+      </>
+    ),
+    isOpenSource: true,
+    tags: ["Next.js", "React.js", "MDX", "Typescript", "Tailwind CSS"],
+    href: "https://github.com/imLymei/portfolio-blog",
+    image: "/images/PortfolioBlog.png",
+  },
+  {
+    name: "TypeSpeed",
+    description: (
+      <>
+        <p>
+          Aplicação web e desktop desenvolvida para treinar velocidade e
+          precisão de digitação utilizando a{" "}
+          <span className="italic">Home Row</span>. Foi assim que consegui me
+          acostumar com o Vim B).
+        </p>
+        <p>
+          O usuário digita sequências de palavras enquanto o sistema acompanha
+          métricas em tempo real, como precisão e número de acertos, permitindo
+          visualizar a evolução da performance durante a prática.
+        </p>
+        <p>
+          O projeto foi desenvolvido com Next.js, React e Tailwind CSS para a
+          interface, utilizando Tauri para a criação de um aplicativo desktop
+          leve e multiplataforma.
+        </p>
+      </>
+    ),
+    isOpenSource: true,
+    tags: ["Next.js", "React.js", "Tailwind CSS", "Tauri", "Typescript"],
+    href: "https://github.com/imLymei/type-speed",
+    image: "/images/FastType.png",
   },
   {
     name: "Desafios RDO",
