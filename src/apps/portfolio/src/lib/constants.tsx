@@ -48,9 +48,12 @@ export const PROJECTS: Project[] = [
       <>
         <p>
           Plataforma de intranet educacional do Colégio Jean Piaget, utilizada
-          por +1000 usuários em múltiplas unidades. Desenvolvida com TypeScript,
-          React.js e Next.js, integra APIs internas e serviços externos e
-          permite a geração de relatórios e gestão de dados acadêmicos.
+          por +1000 usuários em múltiplas unidades.
+        </p>
+        <p>
+          Desenvolvida com TypeScript, React.js e Next.js, integra APIs internas
+          e serviços externos e permite a geração de relatórios e gestão de
+          dados acadêmicos.
         </p>
         <p>
           Atuei como Tech Lead da equipe responsável pelo desenvolvimento,
@@ -82,9 +85,9 @@ export const PROJECTS: Project[] = [
     description: (
       <>
         <p>
-          Ferramenta de linha de comando (CLI) open-source desenvolvida para
-          automatizar e simplificar comandos longos ou repetitivos no fluxo de
-          trabalho de desenvolvedores.
+          CLI open-source desenvolvida para automatizar e simplificar comandos
+          longos ou repetitivos no fluxo de trabalho de desenvolvedores, ou
+          seja, meus comandos no Docker xD.
         </p>
         <p>
           Construída com TypeScript e Node.js, permite a criação e execução de
