@@ -44,23 +44,25 @@ export type Project = {
 };
 export const PROJECTS: Project[] = [
   {
-    name: "Intranet Jean Piaget",
+    name: "Intranet Escolar",
     description: (
       <>
         <p>
-          Plataforma de intranet educacional do Colégio Jean Piaget, utilizada
-          por +1000 usuários em múltiplas unidades.
+          Plataforma de intranet educacional que permite a professores, alunos e
+          familiares acessar ocorrências, provas e resultados, além de gerar
+          relatórios e acompanhar dados acadêmicos. Atualmente utilizada por
+          mais de 1000 usuários simultâneos em múltiplas unidades.
         </p>
         <p>
           Desenvolvida com TypeScript, React.js e Next.js, integra APIs internas
-          e serviços externos e permite a geração de relatórios e gestão de
-          dados acadêmicos.
+          e serviços externos, oferecendo ferramentas para gestão de informações
+          acadêmicas e geração de relatórios.
         </p>
         <p>
           Atuei como Tech Lead da equipe responsável pelo desenvolvimento,
-          liderando decisões técnicas, estrutura de CI/CD, testes automatizados,
-          containerização com Docker e a criação de um SDK interno para
-          padronização de serviços, com foco em performance e escalabilidade.
+          liderando decisões técnicas, estruturação de CI/CD, implementação de
+          testes automatizados, containerização com Docker e a criação de um SDK
+          interno para padronização de serviços.
         </p>
       </>
     ),
@@ -93,10 +95,11 @@ export const PROJECTS: Project[] = [
         <p>
           Construída com TypeScript e Node.js, permite a criação e execução de
           comandos personalizados com suporte a argumentos obrigatórios,
-          opcionais, condicionais e spread arguments para alta flexibilidade. A
-          ferramenta também inclui gerenciamento de configurações via CLI e
-          sincronização em nuvem utilizando GitHub Gists, permitindo
-          compartilhar e sincronizar comandos entre diferentes ambientes.
+          opcionais, condicionais e{" "}
+          <span className="italic">spread arguments</span>. A ferramenta também
+          inclui gerenciamento de configurações via CLI e sincronização em nuvem
+          utilizando GitHub Gists, permitindo compartilhar e sincronizar
+          comandos entre diferentes ambientes.
         </p>
       </>
     ),
