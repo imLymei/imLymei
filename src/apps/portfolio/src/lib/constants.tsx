@@ -197,14 +197,7 @@ export const PROJECTS: Project[] = [
       </>
     ),
     isOpenSource: true,
-    tags: [
-      "Next.js",
-      "React.js",
-      "Tailwind CSS",
-      "Algoritmos",
-      "Typescript",
-      "Desafios",
-    ],
+    tags: ["Next.js", "React.js", "Tailwind CSS", "Typescript", "Desafios"],
     image: "/images/RDO.png",
     href: "https://github.com/imLymei/desafios-rdo",
   },
@@ -236,3 +229,10 @@ export const PROJECTS_TAGS = Array.from(
     ),
   ),
 );
+
+export const TECH_STACK: string[] = [
+  "React.js",
+  "Typescript",
+  "Rust",
+  "Docker",
+];
