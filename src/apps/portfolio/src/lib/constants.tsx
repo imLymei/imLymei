@@ -233,6 +233,7 @@ export const PROJECTS_TAGS = Array.from(
 export const TECH_STACK: string[] = [
   "React.js",
   "Typescript",
-  "Rust",
   "Docker",
+  "Node",
+  "Rust",
 ];
