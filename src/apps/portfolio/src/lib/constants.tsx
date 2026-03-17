@@ -197,14 +197,7 @@ export const PROJECTS: Project[] = [
       </>
     ),
     isOpenSource: true,
-    tags: [
-      "Next.js",
-      "React.js",
-      "Tailwind CSS",
-      "Algoritmos",
-      "Typescript",
-      "Desafios",
-    ],
+    tags: ["Next.js", "React.js", "Tailwind CSS", "Typescript", "Desafios"],
     image: "/images/RDO.png",
     href: "https://github.com/imLymei/desafios-rdo",
   },
@@ -236,3 +229,60 @@ export const PROJECTS_TAGS = Array.from(
     ),
   ),
 );
+
+export const TECH_STACK: string[] = [
+  "React.js",
+  "Typescript",
+  "Docker",
+  "Node",
+  "Rust",
+];
+
+export const EXPERIENCES: {
+  role: string;
+  employer: string;
+  description: string;
+  period?: string;
+}[] = [
+  {
+    employer: "Jean Piaget",
+    role: "Coordenador de Tecnologia Educacional e Desenvolvimento",
+    description:
+      "Responsável pelo planejamento, coordenação e implementação de soluções tecnológicas no ambiente escolar. Atuando na liderança de projetos de desenvolvimento de sistemas internos utilizando tecnologias como React, Node.js, TypeScript, Rust e Go, além de apoiar professores e alunos na criação de projetos e ferramentas digitais. Além de lecionar Projetos de Iniciação Científica, conduzindo aulas, cursos e oficinas, e desenvolver recursos educacionais utilizando tecnologias como impressão 3D e corte a laser.",
+    period: "Agosto de 2025 - Presente",
+  },
+  {
+    employer: "Jean Piaget",
+    role: "Engenheiro de Software",
+    description:
+      "Responsável pelo planejamento, desenvolvimento e implementação de soluções tecnológicas personalizadas voltadas à otimização e transformação do ambiente escolar. Atuei na construção e manutenção de sistemas utilizados por toda comunidade escolar, utilizando tecnologias como TypeScript, React.js e Rust. Trabalhando com práticas modernas de engenharia de software, incluindo CI/CD e testes automatizados.",
+    period: "Janeiro de 2024 - Agosto de 2025",
+  },
+  {
+    employer: "Safe Swap",
+    role: "Desenvolvedor Full Stack",
+    description:
+      "Desenvolvedor Full Stack focado na criação, refatoração e planejamento de novos projetos e funcionalidades, auxiliando a equipe a fornecer aos nossos clientes um local seguro para realizar sonhos de qualquer tamanho.",
+    period: "Janeiro 2024 - Julho 2025",
+  },
+];
+
+export const ACADEMICS: {
+  university: string;
+  degree: string;
+  areaOfStudy: string;
+  period: string;
+}[] = [
+  {
+    university: "UNISANTA",
+    areaOfStudy: "Análise e Desenvolvimento de Sistemas",
+    degree: "Tecnólogo",
+    period: "Fevereiro 2022 - Junho 2024",
+  },
+  {
+    university: "PUC Rio",
+    areaOfStudy: "Engenharia de Software",
+    degree: "Pós-Graduação",
+    period: "Março 2026 - Presente",
+  },
+];
