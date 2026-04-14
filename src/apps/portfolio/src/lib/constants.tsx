@@ -235,7 +235,7 @@ export const TECH_STACK: string[] = [
   "Typescript",
   "Docker",
   "Node",
-  "Rust",
+  "C#",
 ];
 
 export const EXPERIENCES: {
