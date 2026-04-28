@@ -12,6 +12,7 @@ const spaceMono = Space_Mono({
 export const metadata: Metadata = {
   title: APP.name,
   description: APP.description,
+  metadataBase: new URL("https://lymei.dev"),
 };
 
 export default function RootLayout({
